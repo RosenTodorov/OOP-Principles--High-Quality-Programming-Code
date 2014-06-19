@@ -1,0 +1,4 @@
+c:\users\rosen\documents\visual studio 2013\Projects\10.UnitTesting\10.UnitTesting\obj\Debug\School.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2013\Projects\10.UnitTesting\10.UnitTesting\obj\Debug\_10.UnitTesting.Properties.Resources.resources
+c:\users\rosen\documents\visual studio 2013\Projects\10.UnitTesting\10.UnitTesting\obj\Debug\School.csproj.GenerateResource.Cache
+C:\Users\Rosen\Documents\Visual Studio 2013\Projects\10.UnitTesting\10.UnitTesting\bin\Debug\10.UnitTesting.exe.config

@@ -1,0 +1,1 @@
+c:\users\rosen\documents\visual studio 2013\Projects\CodeFormatting\CodeFormatting\bin\Debug\CodeFormatting.exe.config

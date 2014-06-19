@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\04.Using-Variables-Data-Expressions\04.Using-Variables-Data-Expressions\bin\04.Using-Variables-Data-Expressions.dll.config
+d:\user\documents\visual studio 2013\Projects\04.Using-Variables-Data-Expressions\04.Using-Variables-Data-Expressions\bin\04.Using-Variables-Data-Expressions.dll
+d:\user\documents\visual studio 2013\Projects\04.Using-Variables-Data-Expressions\04.Using-Variables-Data-Expressions\bin\04.Using-Variables-Data-Expressions.pdb
+d:\user\documents\visual studio 2013\Projects\04.Using-Variables-Data-Expressions\04.Using-Variables-Data-Expressions\obj\Debug\04.Using-Variables-Data-Expressions.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\04.Using-Variables-Data-Expressions\04.Using-Variables-Data-Expressions\obj\Debug\04.Using-Variables-Data-Expressions.dll
+d:\user\documents\visual studio 2013\Projects\04.Using-Variables-Data-Expressions\04.Using-Variables-Data-Expressions\obj\Debug\04.Using-Variables-Data-Expressions.pdb

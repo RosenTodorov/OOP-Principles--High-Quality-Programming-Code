@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\JS-homeworks\JavaScript UI & DOM\Test-Driven-Development-Demo-Homework\CardTests\bin\Debug\CardTests.dll
+C:\Users\user\Desktop\JS-homeworks\JavaScript UI & DOM\Test-Driven-Development-Demo-Homework\CardTests\bin\Debug\CardTests.pdb
+C:\Users\user\Desktop\JS-homeworks\JavaScript UI & DOM\Test-Driven-Development-Demo-Homework\CardTests\bin\Debug\Poker.exe
+C:\Users\user\Desktop\JS-homeworks\JavaScript UI & DOM\Test-Driven-Development-Demo-Homework\CardTests\bin\Debug\Poker.pdb
+C:\Users\user\Desktop\JS-homeworks\JavaScript UI & DOM\Test-Driven-Development-Demo-Homework\CardTests\obj\Debug\CardTests.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\JS-homeworks\JavaScript UI & DOM\Test-Driven-Development-Demo-Homework\CardTests\obj\Debug\CardTests.dll
+C:\Users\user\Desktop\JS-homeworks\JavaScript UI & DOM\Test-Driven-Development-Demo-Homework\CardTests\obj\Debug\CardTests.pdb
