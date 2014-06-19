@@ -1,0 +1,3 @@
+C:\Users\Rosen\Documents\Visual Studio 2012\Projects\DefiningClasses–PartI\bin\Debug\DefiningClasses–PartI.exe.config
+D:\Telerik\OOP\DefiningClasses–PartI\DefiningClasses–PartI\bin\Debug\DefiningClasses–PartI.exe.config
+D:\Telerik\OOP\DefiningClasses–PartI\DefiningClasses–PartI\obj\Debug\GSM.csprojResolveAssemblyReference.cache

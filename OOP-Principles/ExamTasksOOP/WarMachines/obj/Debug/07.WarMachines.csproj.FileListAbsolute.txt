@@ -1,0 +1,5 @@
+E:\Git\Exam-Tasks\OOP Exam tasks\07.WarMachines\bin\Debug\07.WarMachines.exe.config
+E:\Git\Exam-Tasks\OOP Exam tasks\07.WarMachines\bin\Debug\07.WarMachines.exe
+E:\Git\Exam-Tasks\OOP Exam tasks\07.WarMachines\bin\Debug\07.WarMachines.pdb
+E:\Git\Exam-Tasks\OOP Exam tasks\07.WarMachines\obj\Debug\07.WarMachines.exe
+E:\Git\Exam-Tasks\OOP Exam tasks\07.WarMachines\obj\Debug\07.WarMachines.pdb

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.AbstractClassShape", "OOP-Principles–PartII\1.AbstractClassShape.csproj", "{DDB54D2F-448E-458C-A3B4-6ECD0349AAC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.BankAccounts", "2.BankAccounts\2.BankAccounts.csproj", "{6C92DDC5-CFAF-44CC-BA3F-009641D320B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.InvalidRangeException", "3.InvalidRangeException\3.InvalidRangeException.csproj", "{7DEDB7A2-A2AA-4313-BA58-38C6B6706137}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB54D2F-448E-458C-A3B4-6ECD0349AAC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB54D2F-448E-458C-A3B4-6ECD0349AAC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB54D2F-448E-458C-A3B4-6ECD0349AAC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB54D2F-448E-458C-A3B4-6ECD0349AAC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C92DDC5-CFAF-44CC-BA3F-009641D320B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C92DDC5-CFAF-44CC-BA3F-009641D320B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C92DDC5-CFAF-44CC-BA3F-009641D320B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C92DDC5-CFAF-44CC-BA3F-009641D320B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DEDB7A2-A2AA-4313-BA58-38C6B6706137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DEDB7A2-A2AA-4313-BA58-38C6B6706137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DEDB7A2-A2AA-4313-BA58-38C6B6706137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DEDB7A2-A2AA-4313-BA58-38C6B6706137}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

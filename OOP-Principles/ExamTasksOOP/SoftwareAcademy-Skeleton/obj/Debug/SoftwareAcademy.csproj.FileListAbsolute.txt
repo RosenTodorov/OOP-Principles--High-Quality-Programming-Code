@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\TeamWork\Exam\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Skeleton\obj\Debug\SoftwareAcademy.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\TeamWork\Exam\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Skeleton\bin\Debug\SoftwareAcademy.exe
+C:\Users\user\Desktop\TeamWork\Exam\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Skeleton\bin\Debug\SoftwareAcademy.pdb
+C:\Users\user\Desktop\TeamWork\Exam\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Skeleton\obj\Debug\SoftwareAcademy.exe
+C:\Users\user\Desktop\TeamWork\Exam\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Skeleton\obj\Debug\SoftwareAcademy.pdb

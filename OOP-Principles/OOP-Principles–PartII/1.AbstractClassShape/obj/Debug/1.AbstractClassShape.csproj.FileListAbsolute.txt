@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\OOP-Principles–PartII\OOP-Principles–PartII\obj\Debug\1.AbstractClassShape.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\OOP-Principles–PartII\OOP-Principles–PartII\bin\Debug\OOP-Principles–PartII.exe.config
+d:\user\documents\visual studio 2012\Projects\OOP-Principles–PartII\OOP-Principles–PartII\bin\Debug\OOP-Principles–PartII.exe
+d:\user\documents\visual studio 2012\Projects\OOP-Principles–PartII\OOP-Principles–PartII\bin\Debug\OOP-Principles–PartII.pdb
+d:\user\documents\visual studio 2012\Projects\OOP-Principles–PartII\OOP-Principles–PartII\obj\Debug\OOP-Principles–PartII.exe
+d:\user\documents\visual studio 2012\Projects\OOP-Principles–PartII\OOP-Principles–PartII\obj\Debug\OOP-Principles–PartII.pdb

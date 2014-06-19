@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\StudentNames\bin\Debug\StudentNames.exe.config
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\StudentNames\bin\Debug\StudentNames.exe
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\StudentNames\bin\Debug\StudentNames.pdb
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\StudentNames\obj\Debug\StudentNames.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\StudentNames\obj\Debug\StudentNames.exe
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\StudentNames\obj\Debug\StudentNames.pdb

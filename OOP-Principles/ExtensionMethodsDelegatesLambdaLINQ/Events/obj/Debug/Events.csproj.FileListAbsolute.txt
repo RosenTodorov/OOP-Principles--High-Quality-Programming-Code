@@ -1,0 +1,1 @@
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\Events\bin\Debug\Events.exe.config

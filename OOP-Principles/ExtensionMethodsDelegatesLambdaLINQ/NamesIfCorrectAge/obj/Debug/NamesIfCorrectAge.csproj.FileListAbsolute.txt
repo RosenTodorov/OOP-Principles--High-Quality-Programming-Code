@@ -1,0 +1,5 @@
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\NamesIfCorrectAge\bin\Debug\NamesIfCorrectAge.exe.config
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\NamesIfCorrectAge\bin\Debug\NamesIfCorrectAge.exe
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\NamesIfCorrectAge\bin\Debug\NamesIfCorrectAge.pdb
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\NamesIfCorrectAge\obj\Debug\NamesIfCorrectAge.exe
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\NamesIfCorrectAge\obj\Debug\NamesIfCorrectAge.pdb

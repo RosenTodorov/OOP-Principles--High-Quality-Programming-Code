@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\CommonTypeSystem(CTS)\CommonTypeSystem(CTS)\obj\Debug\1.Student.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\CommonTypeSystem(CTS)\CommonTypeSystem(CTS)\bin\Debug\CommonTypeSystem(CTS).exe.config
+d:\user\documents\visual studio 2012\Projects\CommonTypeSystem(CTS)\CommonTypeSystem(CTS)\bin\Debug\CommonTypeSystem(CTS).exe
+d:\user\documents\visual studio 2012\Projects\CommonTypeSystem(CTS)\CommonTypeSystem(CTS)\bin\Debug\CommonTypeSystem(CTS).pdb
+d:\user\documents\visual studio 2012\Projects\CommonTypeSystem(CTS)\CommonTypeSystem(CTS)\obj\Debug\CommonTypeSystem(CTS).exe
+d:\user\documents\visual studio 2012\Projects\CommonTypeSystem(CTS)\CommonTypeSystem(CTS)\obj\Debug\CommonTypeSystem(CTS).pdb

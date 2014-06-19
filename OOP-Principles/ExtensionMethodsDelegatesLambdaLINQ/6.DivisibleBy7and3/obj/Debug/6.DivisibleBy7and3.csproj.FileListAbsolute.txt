@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\6.DivisibleBy7and3\bin\Debug\6.DivisibleBy7and3.exe.config
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\6.DivisibleBy7and3\bin\Debug\6.DivisibleBy7and3.exe
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\6.DivisibleBy7and3\bin\Debug\6.DivisibleBy7and3.pdb
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\6.DivisibleBy7and3\obj\Debug\6.DivisibleBy7and3.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\6.DivisibleBy7and3\obj\Debug\6.DivisibleBy7and3.exe
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\6.DivisibleBy7and3\obj\Debug\6.DivisibleBy7and3.pdb

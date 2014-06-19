@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\7.Delegate\bin\Debug\7.Delegate.exe.config
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\7.Delegate\obj\Debug\7.Delegate.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\7.Delegate\bin\Debug\7.Delegate.exe
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\7.Delegate\bin\Debug\7.Delegate.pdb
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\7.Delegate\obj\Debug\7.Delegate.exe
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\7.Delegate\obj\Debug\7.Delegate.pdb

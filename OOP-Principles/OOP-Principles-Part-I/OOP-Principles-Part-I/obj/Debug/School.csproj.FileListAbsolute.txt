@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2012\Projects\OOP-Principles-Part-I\OOP-Principles-Part-I\bin\Debug\OOP-Principles-Part-I.exe.config
+d:\user\documents\visual studio 2012\Projects\OOP-Principles-Part-I\OOP-Principles-Part-I\bin\Debug\OOP-Principles-Part-I.exe
+d:\user\documents\visual studio 2012\Projects\OOP-Principles-Part-I\OOP-Principles-Part-I\bin\Debug\OOP-Principles-Part-I.pdb
+d:\user\documents\visual studio 2012\Projects\OOP-Principles-Part-I\OOP-Principles-Part-I\obj\Debug\School.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2012\Projects\OOP-Principles-Part-I\OOP-Principles-Part-I\obj\Debug\OOP-Principles-Part-I.exe
+d:\user\documents\visual studio 2012\Projects\OOP-Principles-Part-I\OOP-Principles-Part-I\obj\Debug\OOP-Principles-Part-I.pdb

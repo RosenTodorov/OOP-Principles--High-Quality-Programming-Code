@@ -1,0 +1,5 @@
+E:\Git\Exam-Tasks\OOP Exam tasks\08.TradeAndTravel\bin\Debug\08.TradeAndTravel.exe.config
+E:\Git\Exam-Tasks\OOP Exam tasks\08.TradeAndTravel\bin\Debug\08.TradeAndTravel.exe
+E:\Git\Exam-Tasks\OOP Exam tasks\08.TradeAndTravel\bin\Debug\08.TradeAndTravel.pdb
+E:\Git\Exam-Tasks\OOP Exam tasks\08.TradeAndTravel\obj\Debug\08.TradeAndTravel.exe
+E:\Git\Exam-Tasks\OOP Exam tasks\08.TradeAndTravel\obj\Debug\08.TradeAndTravel.pdb

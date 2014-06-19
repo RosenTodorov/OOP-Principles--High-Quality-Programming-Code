@@ -1,0 +1,3 @@
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\bin\Debug\ExtensionMethodsDelegatesLambdaLINQ.exe.config
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\obj\Debug\ExtensionMethodsDelegatesLambdaLINQ.exe
+d:\user\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\obj\Debug\ExtensionMethodsDelegatesLambdaLINQ.pdb

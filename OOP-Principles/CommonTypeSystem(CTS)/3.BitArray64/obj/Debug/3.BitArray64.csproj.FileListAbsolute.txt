@@ -1,0 +1,6 @@
+D:\user\Documents\Visual Studio 2012\Projects\CommonTypeSystem(CTS)\3.BitArray64\bin\Debug\3.BitArray64.exe.config
+D:\user\Documents\Visual Studio 2012\Projects\CommonTypeSystem(CTS)\3.BitArray64\obj\Debug\3.BitArray64.csprojResolveAssemblyReference.cache
+D:\user\Documents\Visual Studio 2012\Projects\CommonTypeSystem(CTS)\3.BitArray64\bin\Debug\3.BitArray64.exe
+D:\user\Documents\Visual Studio 2012\Projects\CommonTypeSystem(CTS)\3.BitArray64\bin\Debug\3.BitArray64.pdb
+D:\user\Documents\Visual Studio 2012\Projects\CommonTypeSystem(CTS)\3.BitArray64\obj\Debug\3.BitArray64.exe
+D:\user\Documents\Visual Studio 2012\Projects\CommonTypeSystem(CTS)\3.BitArray64\obj\Debug\3.BitArray64.pdb
