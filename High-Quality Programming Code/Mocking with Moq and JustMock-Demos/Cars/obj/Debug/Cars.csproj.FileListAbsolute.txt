@@ -1,0 +1,5 @@
+C:\Users\Rosen\Desktop\homework\KPK\Mocking with Moq and JustMock-Demos\Cars\bin\Debug\Cars.dll
+C:\Users\Rosen\Desktop\homework\KPK\Mocking with Moq and JustMock-Demos\Cars\bin\Debug\Cars.pdb
+C:\Users\Rosen\Desktop\homework\KPK\Mocking with Moq and JustMock-Demos\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Desktop\homework\KPK\Mocking with Moq and JustMock-Demos\Cars\obj\Debug\Cars.dll
+C:\Users\Rosen\Desktop\homework\KPK\Mocking with Moq and JustMock-Demos\Cars\obj\Debug\Cars.pdb

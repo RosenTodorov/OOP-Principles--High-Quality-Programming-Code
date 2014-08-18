@@ -1,0 +1,11 @@
+C:\Users\Rosen\Desktop\homework\KPK\Mocking with Moq and JustMock-Demos\Cars.Tests.JustMock\bin\Debug\Cars.Tests.JustMock.dll
+C:\Users\Rosen\Desktop\homework\KPK\Mocking with Moq and JustMock-Demos\Cars.Tests.JustMock\bin\Debug\Cars.Tests.JustMock.pdb
+C:\Users\Rosen\Desktop\homework\KPK\Mocking with Moq and JustMock-Demos\Cars.Tests.JustMock\bin\Debug\Cars.dll
+C:\Users\Rosen\Desktop\homework\KPK\Mocking with Moq and JustMock-Demos\Cars.Tests.JustMock\bin\Debug\Moq.dll
+C:\Users\Rosen\Desktop\homework\KPK\Mocking with Moq and JustMock-Demos\Cars.Tests.JustMock\bin\Debug\Telerik.JustMock.dll
+C:\Users\Rosen\Desktop\homework\KPK\Mocking with Moq and JustMock-Demos\Cars.Tests.JustMock\bin\Debug\Cars.pdb
+C:\Users\Rosen\Desktop\homework\KPK\Mocking with Moq and JustMock-Demos\Cars.Tests.JustMock\bin\Debug\Moq.xml
+C:\Users\Rosen\Desktop\homework\KPK\Mocking with Moq and JustMock-Demos\Cars.Tests.JustMock\bin\Debug\Telerik.JustMock.xml
+C:\Users\Rosen\Desktop\homework\KPK\Mocking with Moq and JustMock-Demos\Cars.Tests.JustMock\obj\Debug\Cars.Tests.JustMock.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Desktop\homework\KPK\Mocking with Moq and JustMock-Demos\Cars.Tests.JustMock\obj\Debug\Cars.Tests.JustMock.dll
+C:\Users\Rosen\Desktop\homework\KPK\Mocking with Moq and JustMock-Demos\Cars.Tests.JustMock\obj\Debug\Cars.Tests.JustMock.pdb

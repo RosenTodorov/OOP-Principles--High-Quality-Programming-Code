@@ -1,0 +1,8 @@
+d:\user\documents\visual studio 2013\Projects\DevelopementTools\DevelopementTools\bin\Debug\DevelopementTools.exe.config
+d:\user\documents\visual studio 2013\Projects\DevelopementTools\DevelopementTools\bin\Debug\DevelopementTools.exe
+d:\user\documents\visual studio 2013\Projects\DevelopementTools\DevelopementTools\bin\Debug\DevelopementTools.pdb
+d:\user\documents\visual studio 2013\Projects\DevelopementTools\DevelopementTools\obj\Debug\DevelopementTools.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\DevelopementTools\DevelopementTools\obj\Debug\DevelopementTools.Properties.Resources.resources
+d:\user\documents\visual studio 2013\Projects\DevelopementTools\DevelopementTools\obj\Debug\DevelopementTools.csproj.GenerateResource.Cache
+d:\user\documents\visual studio 2013\Projects\DevelopementTools\DevelopementTools\obj\Debug\DevelopementTools.exe
+d:\user\documents\visual studio 2013\Projects\DevelopementTools\DevelopementTools\obj\Debug\DevelopementTools.pdb

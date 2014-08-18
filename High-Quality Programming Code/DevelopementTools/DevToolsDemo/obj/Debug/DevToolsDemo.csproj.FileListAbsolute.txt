@@ -1,0 +1,3 @@
+d:\user\documents\visual studio 2013\Projects\DevelopementTools\DevToolsDemo\obj\Debug\DevToolsDemo.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\DevelopementTools\DevToolsDemo\obj\Debug\DevToolsDemo.Properties.Resources.resources
+d:\user\documents\visual studio 2013\Projects\DevelopementTools\DevToolsDemo\obj\Debug\DevToolsDemo.csproj.GenerateResource.Cache
